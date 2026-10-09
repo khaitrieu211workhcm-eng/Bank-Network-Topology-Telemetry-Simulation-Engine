@@ -281,6 +281,6 @@ bank_link_status == 0                          # Link WAN bị đứt
 
 ## Thành viên thực hiện
 
-| Họ và tên | MSSV | Vai trò |
-|-----------|------|---------|
-| _(điền)_ | _(điền)_ | _(điền)_ |
+| Họ và tên |  Vai trò |
+|-----------|----------|
+| _K.Triều_ | _Leader_ | 
